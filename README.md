@@ -14,7 +14,7 @@ Your contribution will only be accepted if it goes by the following criteria:
 
 Example code will be in the "Example.py" file, with comments explaing each line.
 
-#Change log
+# Change log
 
 6/5/2020
 
