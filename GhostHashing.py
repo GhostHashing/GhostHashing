@@ -14,6 +14,8 @@ def Hash(stringh, salt, sharounds):
         return
     if len(str(sharounds)) == 0:
         return
+    if str(sharounds) == "0":
+        return
     if stringh == "--(({{[[GC[RANDOMSTRING]]]}}))--":
         letters = string.ascii_letters + "1234567890"
         stringh = ""
