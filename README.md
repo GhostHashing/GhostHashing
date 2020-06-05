@@ -17,4 +17,5 @@ Example code will be in the "Example.py" file, with comments explaing each line.
 #Change log
 
 6/5/2020
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release
