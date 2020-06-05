@@ -1,5 +1,5 @@
 # Why?
-** Version: 1.0
+## Version: 1.0
 
 * Wanted to create a hashing algorithm like bcrypt (https://en.wikipedia.org/wiki/Bcrypt). Except, I wanted it to take longer to hash the original message so dictionary attacks will be practically useless againts the hashes.
 * Since this hashing algorithm is most likely not going to be very popular, it will be a good choice to use since most hash cracking software won't support it.
