@@ -7,7 +7,7 @@
 # Contribution
 
 Your contribution will only be accepted if it goes by the following criteria:
-* Adds rather more security usability.
+* Adds rather more security or usability.
 * Fixes any bugs. (Please comment on the what you fixed and why it needed to be fixed.)
 * Explains sections that will be hard to understand for many people.
 # Example Code
